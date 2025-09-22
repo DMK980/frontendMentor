@@ -29,7 +29,7 @@ A browser-based game with interactive UI and score tracking.<br>
 
 ### 6. [Age Calculator](./age-calculator)
 A utility app where users input their birth date to calculate their exact age.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://age-calculator-1-cyan.vercel.app/)
 
 ### 7. [IP Address Tracker](./ip-address-tracker)
 A web app that fetches IP location data from an API and displays it on an interactive map.<br>
