@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL Github: [github](https://github.com/DMK980/age-calculator)
-- Live Site URL: [vercel](https://age-calculator-five-sandy.vercel.app/)
+- Solution URL Github: [github](https://github.com/DMK980/frontendMentor/tree/main/age-calculator)
+- Live Site URL: [vercel](https://age-calculator-1-cyan.vercel.app/)
 ## My process
 
 My process always starts with understanding the problem at hand fully. 
