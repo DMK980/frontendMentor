@@ -25,7 +25,7 @@ A responsive web app that fetches country data from the REST Countries API with 
 
 ### 5. [Rock, Paper, Scissors](./Rock-Paper-Scissors-)
 A browser-based game with interactive UI and score tracking.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://rock-paper-scissors-1-one.vercel.app/)
 
 ### 6. [Age Calculator](./age-calculator)
 A utility app where users input their birth date to calculate their exact age.<br>
