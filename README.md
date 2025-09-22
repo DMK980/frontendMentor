@@ -49,7 +49,7 @@ A profile card linking to multiple social media accounts.<br>
 
 ### 11. [URL Shortening API](./url-shortening-api)
 A responsive app that integrates with a URL shortening API, allowing users to shorten and manage links.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://url-shortening-api-1.vercel.app/)
 
 ---
 
