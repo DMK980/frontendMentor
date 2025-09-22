@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/DMK980/Rest-Countries-API)
-- Live Site URL: [Live site](https://rest-countries-api-flax-six.vercel.app/)
+- Solution URL: [Github Repository](https://github.com/DMK980/frontendMentor/tree/main/Rest-Countries-API)
+- Live Site URL: [Live site](https://rest-countries-api-1-six.vercel.app/)
 
 ## My process
 
