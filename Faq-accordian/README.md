@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/DMK980/Faq-accordian)
-- Live Site URL: [live site](https://faq-accordian-ovia.vercel.app/)
+- Solution URL: [Github Repo](https://github.com/DMK980/frontendMentor/tree/main/Faq-accordian)
+- Live Site URL: [live site](https://faq-accordion-1.vercel.app/)
 
 ## My process
 
