@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/DMK980/social-links)
+- Solution URL: [Github repo](https://github.com/DMK980/frontendMentor/tree/main/social-links)
 - Live Site URL: [Live Demo](https://dmk980.github.io/social-links/)
 
 ## My process
