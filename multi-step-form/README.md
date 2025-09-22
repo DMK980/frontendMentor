@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/DMK980/frontendMentor/multi-step-form)
+- Solution URL: [Github repo](https://github.com/DMK980/frontendMentor/tree/main/multi-step-form)
 - Live Site URL: [live site ](https://mutli-step-form-1.vercel.app/)
 
 ## My process
