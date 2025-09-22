@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/DMK980/url-shortening-api)
-- Live Site URL: [live site](https://url-shortening-api-one-eta.vercel.app/)
+- Solution URL: [Github repo](https://github.com/DMK980/frontendMentor/tree/main/url-shortening-api)
+- Live Site URL: [live site](https://url-shortening-api-1.vercel.app/)
 
 ## My process
 
