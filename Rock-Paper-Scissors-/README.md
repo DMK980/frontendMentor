@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/DMK980/Rock-Paper-Scissors-)
-- Live Site URL: [Live Demo](https://rock-paper-scissors-gray-seven.vercel.app/)
+- Solution URL: [Source Code](https://github.com/DMK980/frontendMentor/tree/main/Rock-Paper-Scissors-)
+- Live Site URL: [Live Demo](https://rock-paper-scissors-1-one.vercel.app/)
 
 ## My process
 
