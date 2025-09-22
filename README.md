@@ -13,7 +13,7 @@ A simple card layout for previewing a blog post, showcasing typography, spacing,
 
 ### 2. [FAQ Accordion](./Faq-accordian)
 An interactive FAQ section with expandable/collapsible answers using JavaScript.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://faq-accordion-1.vercel.app/)
 
 ### 3. [QR Code Component](./QR-code-component)
 A clean card component displaying a QR code, focusing on layout and alignment.<br>
