@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/screenshot.png)
+![](./assets/images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/DMK980/Blog-preview-card)
-- Live Site URL: [Live Site](https://blog-preview-card-taupe-psi.vercel.app/)
+- Solution URL: [Github Repo](https://github.com/DMK980/frontendMentor/tree/main/Blog-preview-card)
+- Live Site URL: [Live Site](https://blog-preview-card-1-theta.vercel.app/)
 
 ## My process
 
