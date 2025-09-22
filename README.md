@@ -41,7 +41,7 @@ A multi-page form with input validation and smooth navigation between steps.<br>
 
 ### 9. [Recipe Page](./recipe-page-main)
 A clean and responsive recipe detail page with focus on content layout and typography.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://dmk980.github.io/recipe-page-main/)
 
 ### 10. [Social Links Profile](./social-links)
 A profile card linking to multiple social media accounts.<br>
