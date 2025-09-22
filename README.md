@@ -21,7 +21,7 @@ A clean card component displaying a QR code, focusing on layout and alignment.<b
 
 ### 4. [REST Countries API](./Rest-Countries-API)
 A responsive web app that fetches country data from the REST Countries API with search and filtering functionality.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://rest-countries-api-1-six.vercel.app/)
 
 ### 5. [Rock, Paper, Scissors](./Rock-Paper-Scissors-)
 A browser-based game with interactive UI and score tracking.<br>
