@@ -9,7 +9,7 @@ Each project focuses on improving my frontend development skills — building re
 
 ### 1. [Blog Preview Card](./Blog-preview-card)
 A simple card layout for previewing a blog post, showcasing typography, spacing, and component design.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://blog-preview-card-1-theta.vercel.app/)
 
 ### 2. [FAQ Accordion](./Faq-accordian)
 An interactive FAQ section with expandable/collapsible answers using JavaScript.<br>
