@@ -33,7 +33,7 @@ A utility app where users input their birth date to calculate their exact age.<b
 
 ### 7. [IP Address Tracker](./ip-address-tracker)
 A web app that fetches IP location data from an API and displays it on an interactive map.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://ip-address-tracker-1-xi.vercel.app/)
 
 ### 8. [Multi-step Form](./multi-step-form)
 A multi-page form with input validation and smooth navigation between steps.<br>
