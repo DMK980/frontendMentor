@@ -45,7 +45,7 @@ A clean and responsive recipe detail page with focus on content layout and typog
 
 ### 10. [Social Links Profile](./social-links)
 A profile card linking to multiple social media accounts.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://dmk980.github.io/social-links/)
 
 ### 11. [URL Shortening API](./url-shortening-api)
 A responsive app that integrates with a URL shortening API, allowing users to shorten and manage links.<br>
