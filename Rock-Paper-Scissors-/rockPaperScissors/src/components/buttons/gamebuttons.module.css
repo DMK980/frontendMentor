@@ -1,0 +1,89 @@
+.svg{
+    border-radius: 50%;
+    padding: 1.5rem;
+    background-color: lightgray;
+    overflow:visible;
+    object-fit:fill;
+    width: 100%;
+    min-width: 100px;
+    box-shadow: inset -1px 3px 2px 2px darkgrey;
+    aspect-ratio: 1/1;
+}
+/* BACKGROUNG for buttons */
+.btncontainer{
+    border-radius: 50%;
+    padding: 0.75rem;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit:fill;
+    border: none;
+    cursor: pointer;
+}
+.btncontainer:hover{
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+.btncontainer:active{
+    transform: translateY(4px);
+}
+
+/* Indivisual styling for the ROCK PAPER SCISSORS SVGS */
+.paper{
+    background-image: var(--Paper-Gradient);
+    grid-column: 1 / 3;
+    grid-row: 1 / 3;
+    justify-self: center;
+    align-self: center;
+}
+.rock{
+    background-image: var(--Rock-Gradient);
+    grid-column: 3 / 4;
+    grid-row: 3/5;
+    justify-self: center;
+    align-self: end;
+}
+.scissors{
+    background-image: var(--Scissors-Gradient);
+    grid-column: 4 / 6;
+    grid-row: 1 / 3;
+    justify-self: center;
+    align-self: center; 
+}
+.animate{
+    animation: tada 2s ease-in;
+}
+
+@keyframes tada {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+@media screen and (min-width:424px) {
+    .svg{
+        width: 130px;
+    }
+    .btncontainer{
+        padding: 1rem;
+    }
+}
+@media screen and (min-width:1024px) {
+    .svg{
+        width: 150px;
+    }
+    .btncontainer{
+        padding: 1.5rem;
+    }
+}
+@media screen and (min-width:1440px) {
+    .svg{
+        width: 180px;
+    }
+    .btncontainer{
+        padding: 2rem;
+    }
+}

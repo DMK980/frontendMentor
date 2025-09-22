@@ -1,0 +1,15 @@
+
+.sticky_country{
+    margin-top: 120px;
+}
+.sticky_country_resp{
+    margin-top: 182px;
+}
+.sticky_search {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    background-color: var(--Light-Mode-Background);
+}
+

@@ -1,0 +1,94 @@
+/* fonts */
+@font-face {
+    font-family: Inter;
+    src: url(./assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+/* resets */
+*,*::before,*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(11, 11, 11);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Inter;
+    padding: 1rem;
+    height: 100vh;
+}
+
+/* card */
+main{
+    background-color: rgb(26, 26, 26);
+    border-radius: 10px;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    padding: 2rem;
+    align-items: center;
+    max-width: 400px;
+}
+img{
+    border-radius: 50%;
+    width: 80px;
+}
+h1{
+    padding: 2rem 0 0 0;
+    font-size: 1.5rem;
+}
+h4{
+    padding: 1rem 0 2rem 0;
+    font-size: 0.85rem;
+    color: greenyellow;
+}
+p{
+    font-size: 0.85rem;
+    padding: 0 0 2rem 0;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+}
+section a{
+    background-color: rgb(72, 72, 72);
+    text-align: center;
+    padding: 0.75rem 0;
+    border-radius: 5px;
+    font-weight: 700;
+    text-decoration: none;
+}
+section a:visited{
+    color: rgba(255, 255, 255, 0.48);
+}
+section a:hover{
+    background-color: greenyellow;
+    color: black;
+    cursor: pointer;
+}
+/* Links */
+.attribution { 
+    padding-top: 4rem;
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+@media screen and (max-width:350px) {
+    section{
+        font-size: 0.75rem;
+    }
+    main{
+        padding: 1.5rem;
+    }
+    p{
+        font-size: 0.75rem;
+    }
+}

@@ -1,0 +1,94 @@
+/* fonts */
+@font-face {
+    font-family: "Figtree";
+    src: url(./assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "Figtree-italic";
+    src: url(./assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
+}
+/* Globals */
+:root{
+    --colour-1: hsl(47, 88%, 63%);
+    --colour-2: hsl(0, 0%, 100%);
+    --colour-3: hsl(0, 0%, 42%);
+    --colour-4: hsl(0, 0%, 7%);
+    
+    --font-size: 16px;
+
+    --font-family1: "Figtree";
+    --font-family2: "Figtree-italic";
+
+    --font-weight1: 500;
+    --font-weight2: 800;
+}
+/* Resets */
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: var(--font-family1);
+    font-size: var(--font-size);
+    background-color: var(--colour-1);
+    display: flex;
+    justify-content: center;
+    padding: 5rem 1rem;
+}
+
+a{
+    background-color: var(--colour-2);
+    box-shadow: 10px 10px var(--colour-4);
+    border-radius: 25px;
+    padding: 1.5rem;
+    max-width: 400px;
+}
+
+img[alt="illistruation"]{
+    width: 100%;
+    min-width: 180px;
+    border-radius: 15px;
+}
+
+a > p:nth-child(2){
+    background-color: var(--colour-1);
+    width: fit-content;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin: 1.25rem 0 0.85rem 0;
+    font-weight:var(--font-weight2);
+}
+
+a > p:nth-child(3){
+    font-weight: var(--font-weight1);
+}
+
+h1{
+    font-size: clamp(18px,1.5vw + 1rem,26px);
+    padding: 1rem 0 1.25rem 0;
+}
+h1:hover{
+    color: var(--colour-1);
+    cursor: pointer;
+}
+
+a > p:last-of-type{
+    color: var(--colour-3);
+    padding: 0 0 1.25rem 0;
+}
+
+a > div{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+img[alt="profile-pic"]{
+    width: 40px;
+}
+
+a > div > p{
+    font-weight: var(--font-weight2);
+}

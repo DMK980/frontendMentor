@@ -1,0 +1,69 @@
+.containerVisible{
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    max-width: 425px;
+}
+.containerHidden{
+    display: none;
+}
+.image{
+    width: 80%;
+    align-self: center;
+    justify-self: center;
+}
+.heading{
+    color: rgb(95, 95, 95);
+    padding: 0 0 7rem 0;
+    width: 100%;
+    text-align: center;
+}
+.button{
+    padding: 7rem 0 0 0;
+    border: none;
+    background-color: transparent;
+    font-weight: 500;
+    color: rgb(95, 95, 95);
+    font-size: 2rem;
+    opacity: 0.8;
+}
+.button:hover,.buttontop:hover{
+    opacity: 0.5
+}
+.buttontop{
+    display: none;
+}
+
+@media screen and (min-width:425px) {
+    .containerVisible{
+        height: fit-content;
+        padding: 1rem;
+        top: 25%;
+    }
+    .heading{
+        text-align: left;
+        padding: 1rem 0 3rem 1rem;
+        display: flex;
+        justify-content: space-between;
+    }
+    .button{
+        visibility: hidden;
+        padding: 0;
+    }
+    .buttontop{
+        display: block;
+        border: none;
+        background-color: transparent;
+        font-weight: 500;
+        color: rgb(95, 95, 95);
+        font-size: 2rem;
+        opacity: 0.8;
+        padding: 0 1rem 0 0;
+    }
+}

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root {
+
+  /* Variables */
+  --Font-family: "Barlow Semi Condensed";
+  --background-color: radial-gradient(circle,hsl(214, 47%, 23%) ,hsl(237, 49%, 15%));
+  --Scissors-Gradient: radial-gradient(circle,hsl(39, 89%, 49%),hsl(40, 84%, 53%));
+  --Paper-Gradient: radial-gradient(circle,hsl(230, 89%, 62%), hsl(230, 89%, 65%));
+  --Rock-Gradient: radial-gradient(circle,hsl(349, 71%, 52%), hsl(349, 70%, 56%));
+  --Lizard-Gradient: radial-gradient(circle,hsl(261, 73%, 60%), hsl(261, 72%, 63%));
+  --Cyan: radial-gradient(circle,hsl(189, 59%, 53%), hsl(189, 58%, 57%));
+  
+  --Dark-Text: hsl(229, 25%, 31%);
+  --Score-Text: hsl(229, 64%, 46%);
+  --Header-Outline: hsl(217, 16%, 45%);
+  --Font-weight1: 600;
+  --Font-weight2: 700;
+
+  font-family: var(--Font-family),sans-serif;
+  background-image: var(--background-color);
+  color: white;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-color: var(--background-color);
+}
+

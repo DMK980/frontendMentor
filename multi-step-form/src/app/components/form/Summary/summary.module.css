@@ -1,0 +1,55 @@
+.fieldsethidden{
+    display: none;
+}
+.fieldset{
+    border: none;
+    padding: 3rem 1rem;
+}
+.description{
+    padding: .5rem 0 1.5rem 0;
+    font-size: 1rem;
+}
+.centersection{
+    width: 100%;
+}
+.centersection_top{
+    background-color: var(--Lightgray);
+    border-radius: 10px;
+}
+.centersection_top,.centersection_bottom{
+    padding: 1rem 1rem;
+}
+.selectedoption{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+}
+.selectedoption p {
+    font-size: 1rem;
+}
+.plan{
+    border-bottom: 1px solid hsl(231, 11%, 63%,0.3);
+}
+.selectedplan{
+    color: var(--Marineblue);
+    font-weight: 600;
+    font-size: 1rem;
+}
+.changes{
+    border-bottom: 2px solid hsl(231, 11%, 63%,0.9);
+    cursor: pointer;
+    font-size: 1rem;
+}
+.changes:hover{
+    color: var(--Marineblue) ;
+}
+.pricing{
+    color: var(--Marineblue);
+}
+.pricingplan{
+    font-weight: 600;
+}
+.totalpricing{
+    color: var(--Purplishblue);
+    font-weight: 900;
+}
