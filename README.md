@@ -17,7 +17,7 @@ An interactive FAQ section with expandable/collapsible answers using JavaScript.
 
 ### 3. [QR Code Component](./QR-code-component)
 A clean card component displaying a QR code, focusing on layout and alignment.<br>
-🔗 [Live Demo](https://your-vercel-link.com)
+🔗 [Live Demo](https://qr-code-component-1-indol.vercel.app/)
 
 ### 4. [REST Countries API](./Rest-Countries-API)
 A responsive web app that fetches country data from the REST Countries API with search and filtering functionality.<br>
