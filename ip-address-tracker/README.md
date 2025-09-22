@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/Screenshot%20(65).png)
+![Screenshot](./src/images/Screenshot%20(65).png)
 
 ### Links
 
-- Solution URL: [Githublink](https://dmk980.github.io/ip-address-tracker/)
-- Live Site URL: [Live Demo](https://ip-address-tracker-mocha-nu.vercel.app/)
+- Solution URL: [Githublink](https://dmk980.github.io/frontendMentor/tree/main/ip-address-tracker/)
+- Live Site URL: [Live Demo](https://ip-address-tracker-1-xi.vercel.app/)
 
 - The live demo might not be functioning since the API has a limit on the amount of call for a free plan
 
