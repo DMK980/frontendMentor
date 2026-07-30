@@ -19,35 +19,23 @@ An interactive FAQ section with expandable/collapsible answers using JavaScript.
 A clean card component displaying a QR code, focusing on layout and alignment.<br>
 🔗 [Live Demo](https://qr-code-component-1-indol.vercel.app/)
 
-### 4. [REST Countries API](./Rest-Countries-API)
-A responsive web app that fetches country data from the REST Countries API with search and filtering functionality.<br>
-🔗 [Live Demo](https://rest-countries-api-1-six.vercel.app/)
-
-### 5. [Rock, Paper, Scissors](./Rock-Paper-Scissors-)
+### 4. [Rock, Paper, Scissors](./Rock-Paper-Scissors-)
 A browser-based game with interactive UI and score tracking.<br>
 🔗 [Live Demo](https://rock-paper-scissors-1-one.vercel.app/)
 
-### 6. [Age Calculator](./age-calculator)
+### 5. [Age Calculator](./age-calculator)
 A utility app where users input their birth date to calculate their exact age.<br>
 🔗 [Live Demo](https://age-calculator-1-cyan.vercel.app/)
 
-### 7. [IP Address Tracker](./ip-address-tracker)
+### 6. [IP Address Tracker](./ip-address-tracker)
 A web app that fetches IP location data from an API and displays it on an interactive map.<br>
 🔗 [Live Demo](https://ip-address-tracker-1-xi.vercel.app/)
 
-### 8. [Multi-step Form](./multi-step-form)
+### 7. [Multi-step Form](./multi-step-form)
 A multi-page form with input validation and smooth navigation between steps.<br>
 🔗 [Live Demo](https://mutli-step-form-1.vercel.app/)
 
-### 9. [Recipe Page](./recipe-page-main)
-A clean and responsive recipe detail page with focus on content layout and typography.<br>
-🔗 [Live Demo](https://dmk980.github.io/recipe-page-main/)
-
-### 10. [Social Links Profile](./social-links)
-A profile card linking to multiple social media accounts.<br>
-🔗 [Live Demo](https://dmk980.github.io/social-links/)
-
-### 11. [URL Shortening API](./url-shortening-api)
+### 8. [URL Shortening API](./url-shortening-api)
 A responsive app that integrates with a URL shortening API, allowing users to shorten and manage links.<br>
 🔗 [Live Demo](https://url-shortening-api-1.vercel.app/)
 
